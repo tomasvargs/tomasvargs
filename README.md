@@ -27,7 +27,7 @@ Engineered cross-cloud secret rotation automation using AWS Lambda, eliminating 
  
 **Tech Stack**: AWS Lambda, AWS Secrets Manager, Azure AD, Azure Key Vault, Azure DevOps, AppSync, RDS (SQL Server), ElasticCache, Service Bus, Microsoft Graph API, Python (boto3, requests, pymssql), CloudTrail, EventBridge
 
----
+
 
 ## 🛠️ Technical Skills
 
@@ -38,10 +38,10 @@ Engineered cross-cloud secret rotation automation using AWS Lambda, eliminating 
 - **Scripting**: Python, Bash, Shell Scripting, YAML, JSON
 
 
----
+
 
 ## 🏆 Certifications
----
+
 
 ## 📊 GitHub Statistics
 
@@ -50,7 +50,7 @@ Engineered cross-cloud secret rotation automation using AWS Lambda, eliminating 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasvargs&layout=compact&theme=radical)
 
----
+
 ## 🤝 Let's Connect
 
 📧 Email: tomas15701@gmail.com  
