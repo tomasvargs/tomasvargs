@@ -1,14 +1,14 @@
-# Hi there 👋 I'm Thomas V Varghese
+# Hi there 👋
 
-Junior DevOps Engineer with expertise in cloud infrastructure automation and platform engineering. Proficient in AWS/Azure multi-cloud environments, containerization with Docker and Kubernetes, and Infrastructure as Code (IaC) using Terraform. Demonstrated experience in CI/CD pipeline optimization, monitoring solutions, and scalable cloud architectures. Passionate about building resilient, high-availability systems and implementing DevOps best practices.
+I'm a Junior DevOps Engineer with expertise in cloud infrastructure automation and platform engineering. Proficient in AWS/Azure multi-cloud environments, containerization with Docker and Kubernetes, and Infrastructure as Code (IaC) using Terraform. Demonstrated experience in CI/CD pipeline optimization, monitoring solutions, and scalable cloud architectures. Passionate about building resilient, high-availability systems and implementing DevOps best practices.
 
----
+
 
 ## 🔭 Currently Working at
 
 - Keyshell IT Solutions (Feb 2025 - present)
 
----
+
 
 ##  🚀 Featured Projects
 ###  Cloud-Native CI/CD Pipeline with GitHub Actions and EKS
