@@ -28,6 +28,19 @@ Engineered cross-cloud secret rotation automation using AWS Lambda, eliminating 
 **Tech Stack**: AWS Lambda, AWS Secrets Manager, Azure AD, Azure Key Vault, Azure DevOps, AppSync, RDS (SQL Server), ElasticCache, Service Bus, Microsoft Graph API, Python (boto3, requests, pymssql), CloudTrail, EventBridge
 
 
+## 🎓 Education
+
+**Bachelor of Technology, Computer Science and Engineering**  
+*College of Engineering Trivandrum, APJ Abdul Kalam Technological University*  
+📅 *August 2020 – May 2024*  
+📍 Kerala, India  
+
+**Relevant Coursework:**  
+- Data Structures & Algorithms  
+- Operating Systems  
+- Computer Networks  
+- Database Management Systems  
+- Software Engineering
 
 ## 🛠️ Technical Skills
 
