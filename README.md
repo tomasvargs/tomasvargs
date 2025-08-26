@@ -17,10 +17,15 @@ Implements a robust CI/CD pipeline using GitHub Actions to automate code validat
 **Tech Stack**: GitHub Actions,SonarQube, Gitleaks, Trivy, Docker, Terraform, AWS EKS
 
 
-<h3 style="color:blue">  Scalable WordPress Deployment on AWS with Secure Networking and Auto Scaling </h3>
-Deployed a secure, scalable WordPress application on AWS using a custom VPC with public/private subnets, NAT Gateway, and Bastion Host. Integrated RDS for backend storage, ALB for traffic distribution, and ASG for auto-scaling. Enabled monitoring via CloudWatch, logging via S3, and alerts via SNS. Secured the stack with AWS WAF and custom Security Groups. DNS resolution handled through Route 53 with GoDaddy domain integration.
+<h3 style="color:blue">  Scalable Deployment on AWS with Secure Networking and Auto Scaling </h3>
+Architected and provisioned scalable AWS infrastructure including EC2 Auto Scaling Groups, S3 storage solutions, IAM role-based access control, Lambda serverless functions, and multi-AZ VPC networks.
 
-**Tech Stack**: AWS - EC2, VPC, ASG, ALB, RDS, Route 53, CloudWatch
+**Tech Stack**: AWS - EC2, VPC, S3, IAM, ASG, ALB, RDS, Lambda, Route 53, CloudWatch
+
+<h3 style="color:blue">  Secret Rotation Automation for Azure & AWS </h3>
+Engineered cross-cloud secret rotation automation using AWS Lambda, eliminating 90% of manual updates and strengthening security posture across hybrid cloud environments.
+ 
+**Tech Stack**: AWS Lambda, AWS Secrets Manager, Azure AD, Azure Key Vault, Azure DevOps, AppSync, RDS (SQL Server), ElasticCache, Service Bus, Microsoft Graph API, Python (boto3, requests, pymssql), CloudTrail, EventBridge
 
 ---
 
