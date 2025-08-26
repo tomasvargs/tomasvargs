@@ -11,25 +11,25 @@ Junior DevOps Engineer with expertise in cloud infrastructure automation and pla
 ---
 
 ##  🚀 Featured Projects
-###  CLOUD-NATIVE CI/CD PIPELINE WITH GITHUB ACTIONS AND EKS
+###  Cloud-Native CI/CD Pipeline with GitHub Actions and EKS
 Implements a robust CI/CD pipeline using GitHub Actions to automate code validation, vulnerability scanning, containerization, and deployment to AWS EKS. It integrates industry-standard tools like SonarQube for static analysis, Gitleaks and Trivy for security checks, and Terraform for infrastructure provisioning.
 
 **Tech Stack**: GitHub Actions,SonarQube, Gitleaks, Trivy, Docker, Terraform, AWS EKS
 
 
-### SCALABLE DEPLOYMENT ON AWS WITH SECURE NETWORKING AND AUTO SCALING
+### Scalable Deployment on AWS with Secure Networking and Auto Scaling
 Architected and provisioned scalable AWS infrastructure including EC2 Auto Scaling Groups, S3 storage solutions, IAM role-based access control, Lambda serverless functions, and multi-AZ VPC networks.
 
 **Tech Stack**: AWS - EC2, VPC, S3, IAM, ASG, ALB, RDS, Lambda, Route 53, CloudWatch
 
-### SECRET ROTATION AUTOMATION FOR AZURE & AWS
+### Secret Rotation Automation for Azure & AWS
 Engineered cross-cloud secret rotation automation using AWS Lambda, eliminating 90% of manual updates and strengthening security posture across hybrid cloud environments.
  
 **Tech Stack**: AWS Lambda, AWS Secrets Manager, Azure AD, Azure Key Vault, Azure DevOps, AppSync, RDS (SQL Server), ElasticCache, Service Bus, Microsoft Graph API, Python (boto3, requests, pymssql), CloudTrail, EventBridge
 
 ---
 
-## 🧰 Technical Skills
+## 🛠️ Technical Skills
 
 - **Cloud Platforms**: AWS (EC2, S3, IAM, Lambda, RDS, VPC, CloudWatch, EKS, CloudFormation), Azure (DevOps, Resource Manager)
 - **CI/CD & DevOps**: Terraform, Jenkins, Azure DevOps, GitHub Actions, GitLab CI, Pipeline Automation
