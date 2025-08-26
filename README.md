@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Thomas V Varghese
 
-🎯 Junior DevOps/Cloud Engineer | CI/CD Enthusiast | Kubernetes Explorer  
-📍 Based in Kerala, India | Open to Opportunities in Cloud/DevOps
+Junior DevOps Engineer with expertise in cloud infrastructure automation and platform engineering. Proficient in AWS/Azure multi-cloud environments, containerization with Docker and Kubernetes, and Infrastructure as Code (IaC) using Terraform. Demonstrated experience in CI/CD pipeline optimization, monitoring solutions, and scalable cloud architectures. Passionate about building resilient, high-availability systems and implementing DevOps best practices.
 
 ---
 
@@ -13,12 +12,12 @@
 
 ## 🚀 Featured Projects
 
-### 🧱 Cloud-Native CI/CD Pipeline with GitHub Actions and EKS
+###  Cloud-Native CI/CD Pipeline with GitHub Actions and EKS
 Implements a robust CI/CD pipeline using GitHub Actions to automate code validation, vulnerability scanning, containerization, and deployment to AWS EKS. It integrates industry-standard tools like SonarQube for static analysis, Gitleaks and Trivy for security checks, and Terraform for infrastructure provisioning.
 **Tech Stack**: GitHub Actions,SonarQube, Gitleaks, Trivy, Docker, Terraform, AWS EKS
 
 
-### 🛒 Scalable WordPress Deployment on AWS with Secure Networking and Auto Scaling
+###  Scalable WordPress Deployment on AWS with Secure Networking and Auto Scaling
 Deployed a secure, scalable WordPress application on AWS using a custom VPC with public/private subnets, NAT Gateway, and Bastion Host. Integrated RDS for backend storage, ALB for traffic distribution, and ASG for auto-scaling. Enabled monitoring via CloudWatch, logging via S3, and alerts via SNS. Secured the stack with AWS WAF and custom Security Groups. DNS resolution handled through Route 53 with GoDaddy domain integration.
 **Tech Stack**: AWS - EC2, VPC, ASG, ALB, RDS, Route 53, CloudWatch
 
