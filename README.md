@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there 👋 I'm Thomas V Varghese
 
-<!--
-**tomasvargs/tomasvargs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Junior DevOps/Cloud Engineer | CI/CD Enthusiast | Kubernetes Explorer  
+📍 Based in Kerala, India | Open to Opportunities in Cloud/DevOps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently Working at
+
+- Keyshell IT Solutions
+
+---
+
+## 🚀 Featured Projects
+
+### 🧱 Cloud-Native CI/CD Pipeline with GitHub Actions and EKS
+Implements a robust CI/CD pipeline using GitHub Actions to automate code validation, vulnerability scanning, containerization, and deployment to AWS EKS. It integrates industry-standard tools like SonarQube for static analysis, Gitleaks and Trivy for security checks, and Terraform for infrastructure provisioning.
+**Tech Stack**: GitHub Actions,SonarQube, Gitleaks, Trivy, Docker, Terraform, AWS EKS
+
+
+### 🛒 Scalable WordPress Deployment on AWS with Secure Networking and Auto Scaling
+Deployed a secure, scalable WordPress application on AWS using a custom VPC with public/private subnets, NAT Gateway, and Bastion Host. Integrated RDS for backend storage, ALB for traffic distribution, and ASG for auto-scaling. Enabled monitoring via CloudWatch, logging via S3, and alerts via SNS. Secured the stack with AWS WAF and custom Security Groups. DNS resolution handled through Route 53 with GoDaddy domain integration.
+**Tech Stack**: AWS - EC2, VPC, ASG, ALB, RDS, Route 53, CloudWatch
+
+---
+
+## 🧰 Technical Skills
+
+- **Cloud Platforms**: AWS (EC2, S3, IAM, Lambda, RDS, VPC, CloudWatch, EKS, CloudFormation), Azure (DevOps, Resource Manager)
+- **CI/CD & DevOps**: Terraform, Jenkins, Azure DevOps, GitHub Actions, GitLab CI, Pipeline Automation
+- **Containers & Orchestration**: Docker, Kubernetes, Amazon EKS, Container Registry
+- **Monitoring**: Prometheus, Grafana, CloudWatch, ELK Stack, Zabbix
+- **Scripting**: Python, Bash, Shell Scripting, YAML, JSON
+
+
+---
+
+## 🏆 Certifications
+
+
+
+---
+
+## 🤝 Let's Connect
+
+📧 Email: tomas15701@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/thomas-v-varghese](#)  
+💼 Portfolio: 
+
