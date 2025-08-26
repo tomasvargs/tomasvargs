@@ -14,11 +14,13 @@ Junior DevOps Engineer with expertise in cloud infrastructure automation and pla
 
 ###  Cloud-Native CI/CD Pipeline with GitHub Actions and EKS
 Implements a robust CI/CD pipeline using GitHub Actions to automate code validation, vulnerability scanning, containerization, and deployment to AWS EKS. It integrates industry-standard tools like SonarQube for static analysis, Gitleaks and Trivy for security checks, and Terraform for infrastructure provisioning.
+
 **Tech Stack**: GitHub Actions,SonarQube, Gitleaks, Trivy, Docker, Terraform, AWS EKS
 
 
 ###  Scalable WordPress Deployment on AWS with Secure Networking and Auto Scaling
 Deployed a secure, scalable WordPress application on AWS using a custom VPC with public/private subnets, NAT Gateway, and Bastion Host. Integrated RDS for backend storage, ALB for traffic distribution, and ASG for auto-scaling. Enabled monitoring via CloudWatch, logging via S3, and alerts via SNS. Secured the stack with AWS WAF and custom Security Groups. DNS resolution handled through Route 53 with GoDaddy domain integration.
+
 **Tech Stack**: AWS - EC2, VPC, ASG, ALB, RDS, Route 53, CloudWatch
 
 ---
