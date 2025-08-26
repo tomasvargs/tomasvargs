@@ -54,7 +54,7 @@ Engineered cross-cloud secret rotation automation using AWS Lambda, eliminating 
 
 
 ## 🏆 Certifications
-- **AWS Cloud Architecture Solution – In Progress**  
+- **AWS Certified Solutions Architect Associate – In Progress**  
 
 ## 📊 GitHub Statistics
 
