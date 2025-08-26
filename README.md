@@ -41,11 +41,17 @@ Engineered cross-cloud secret rotation automation using AWS Lambda, eliminating 
 ---
 
 ## 🏆 Certifications
+---
+---
+## 📊 GitHub Statistics
 
+![Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomasvargs&show_icons=true&theme=radical)
 
+## 🧑‍💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasvargs&layout=compact&theme=radical)
 
 ---
-
 ## 🤝 Let's Connect
 
 📧 Email: tomas15701@gmail.com  
