@@ -10,7 +10,7 @@ Junior DevOps Engineer with expertise in cloud infrastructure automation and pla
 
 ---
 
-##  Featured Projects
+##  🚀 Featured Projects
 <h3 style="color:blue">  Cloud-Native CI/CD Pipeline with GitHub Actions and EKS </h3>
 Implements a robust CI/CD pipeline using GitHub Actions to automate code validation, vulnerability scanning, containerization, and deployment to AWS EKS. It integrates industry-standard tools like SonarQube for static analysis, Gitleaks and Trivy for security checks, and Terraform for infrastructure provisioning.
 
