@@ -11,18 +11,18 @@ Junior DevOps Engineer with expertise in cloud infrastructure automation and pla
 ---
 
 ##  🚀 Featured Projects
-### 🔵 **Cloud-Native CI/CD Pipeline with GitHub Actions and EKS**
+###  CLOUD-NATIVE CI/CD PIPELINE WITH GITHUB ACTIONS AND EKS
 Implements a robust CI/CD pipeline using GitHub Actions to automate code validation, vulnerability scanning, containerization, and deployment to AWS EKS. It integrates industry-standard tools like SonarQube for static analysis, Gitleaks and Trivy for security checks, and Terraform for infrastructure provisioning.
 
 **Tech Stack**: GitHub Actions,SonarQube, Gitleaks, Trivy, Docker, Terraform, AWS EKS
 
 
-<h3 style="color:blue">  Scalable Deployment on AWS with Secure Networking and Auto Scaling </h3>
+### **SCALABLE DEPLOYMENT ON AWS WITH SECURE NETWORKING AND AUTO SCALING**
 Architected and provisioned scalable AWS infrastructure including EC2 Auto Scaling Groups, S3 storage solutions, IAM role-based access control, Lambda serverless functions, and multi-AZ VPC networks.
 
 **Tech Stack**: AWS - EC2, VPC, S3, IAM, ASG, ALB, RDS, Lambda, Route 53, CloudWatch
 
-<h3 style="color:blue">  Secret Rotation Automation for Azure & AWS </h3>
+### **SECRET ROTATION AUTOMATION FOR AZURE & AWS**
 Engineered cross-cloud secret rotation automation using AWS Lambda, eliminating 90% of manual updates and strengthening security posture across hybrid cloud environments.
  
 **Tech Stack**: AWS Lambda, AWS Secrets Manager, Azure AD, Azure Key Vault, Azure DevOps, AppSync, RDS (SQL Server), ElasticCache, Service Bus, Microsoft Graph API, Python (boto3, requests, pymssql), CloudTrail, EventBridge
